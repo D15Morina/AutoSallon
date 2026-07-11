@@ -26,5 +26,6 @@
   },
   "engines": {
     "node": "22.x"
-  }
+  },
+  "packageManager": "pnpm@10.15.0"
 }
